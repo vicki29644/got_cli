@@ -1,0 +1,5 @@
+#!/usr/usr/bin/ruby ruby 
+
+require_relative '../lib/game_of_thrones_cli.rb'
+
+#cli.new.run
